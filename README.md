@@ -14,7 +14,7 @@ This repository contains **clean and well-documented implementations** of many f
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Search Algorithms](#search-algorithms)
   - [Linear Search](#-linear-search)
